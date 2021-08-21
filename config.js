@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Bach',
+  name: 'Mattia',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -45,7 +45,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/?hl=it#inbox',
     },
     {
       id: '3',
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -85,12 +85,12 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Bach',
+        link: 'https://www.youtube.com/watch?v=xDWG9SrB4io&list=RDEMVuJMFQY6SyvaEaGiZndKfQ&start_radio=1',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Mozart',
+        link: 'https://www.youtube.com/watch?v=aeEmGvm7kDk&list=RDEMcHoPxTOy3R6SYpiLmJ_e4Q&start_radio=1',
       },
       {
         name: 'Oldies',
